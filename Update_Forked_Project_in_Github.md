@@ -2,12 +2,12 @@
 
 [返回xiangxing98的Github Profile](https://github.com/xiangxing98/ "返回xiangxing98的Github Profile")
 
-/**
+<!--
  * @ Title:		Update_Forked_Project_in_Github.md
  * @ Authors:	siqin.hou (xiangxing985529@163.com)
  * @ Date:		2017-05-20 13:13:55
  * @ Version:	
- */
+-->
 ---
 
 <!-- MarkdownTOC -->
